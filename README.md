@@ -137,7 +137,7 @@ This project is not currently accepting outside contributions, but feel free to 
 ## Contact
 
 For questions, feedback, or collaboration inquiries:  
-📧 [shubhi.sharma@yale.edu]  
+📧 [shubhi@mit.edu]  
 
 ---
 
