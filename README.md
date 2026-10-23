@@ -44,6 +44,7 @@ This manuscript presents a novel species distribution modeling framework that co
 - The model is a **Bayesian hierarchical framework** that integrates species distribution modeling with phylogenetics.
 - Environmental niches are estimated across species using a **latent Gaussian process**, linking **niche similarity to phylogenetic distance**.
 - We connect the estimated model parameters to classical **evolutionary models** such as **Ornstein–Uhlenbeck** and **Brownian Motion**, enabling specific hypothesis testing about niche evolution.
+- In the Appendix of the paper, we provide a short proof stating equivalence between exponential Gaussian Processes Kernels and Ornstein-Uhlenbeck kernels (with BM as the special case)
 - Simulations demonstrate that the framework improves niche estimation across a clade, even when data is sparse or noisy.
 
 ---
